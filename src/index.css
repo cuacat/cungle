@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Lora", ui-serif, Georgia, serif;
+
+  --color-crimson-800: #9B2C2C;
+  --color-beige-50: #F9F3E5;
+  --color-beige-100: #EFE4D0;
+  --color-amber-800: #B45309;
+  --color-brown-900: #2D241E;
+  --color-brown-700: #5D4037;
+}
+
+@layer base {
+  body {
+    @apply bg-beige-50 text-brown-900 font-serif;
+  }
+}
