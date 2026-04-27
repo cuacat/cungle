@@ -563,8 +563,7 @@ NIỆM CHÚ tiếp  bài :    VÃNG SINH TỊNH ĐỘ THẦN CHÚ
 
 Nguyện cầu: Con kính lạy: Đức Bản sư Thích Ca Mâu Ni Phật- Đức Bản Tôn Địa Tạng Vương Bồ Tát từ bi gia hộ cho Vong linh của con là ……….…(đọc tên từng Vong linh) cùng tất cả Gia tiên tiền tổ bên nội, bên ngoại của chúng con: Sớm được siêu thăng Thế giới Tây phương cực lạc.    Trước án kính lễ con xin được phù hộ độ trì.
 
-                                 Con Nam mô a di đà Phật. (3 lần)
-                                             HẾT KHÓA LỄ`
+                                 Con Nam mô a di đà Phật. (3 lần)`
   },
   {
     id: 'cung-cao-truoc-ngay-gio',
@@ -623,13 +622,46 @@ Chúng con kính mong: Chư vị Phật Thánh, chư vị tôn Thần, chư vị
 
 Con Nam mô a di đà Phật. 
 
-NIỆM KINH “ÂM SIÊU-DƯƠNG THÁI” 
-(Cầu cho Vong linh và Gia tiên sớm được siêu thoát)
-- Nam mô Bản Sư Thích Ca Mâu Ni Phật (3 lần)
-- Nam mô A Di Đà Phật (21 lần)
-- Nam mô Quán Thế Âm Bồ Tát (3 lần)
-- Nam mô Địa Tạng vương Bồ Tát (3 lần)
+NIỆM CHÚ tiếp BÀI KINH: “ Âm siêu Dương thái” 
+                                          
+                         Con Nam mô a di đà Phật (3 lần)
 
-NIỆM CHÚ tiếp bài: VÃNG SINH TỊNH ĐỘ THẦN CHÚ`
+Pháp Phật cao siêu rất nhiêm mầu. Muôn đời khó gặp dễ hay đâu. Con nay nghe thấy được trì thụ. Chân nghĩa Như Lai nguyện hiểu sâu
+ Nam mô Bản Sư Thích Ca Mâu Ni Phật (3 lần)  o o o
+
+Phật tâm đức lớn hơn Trời bể. Pháp nhiệm mầu thiên thể sáng soi. Thuyền bát Nhã mọi loài cứu vớt. Gieo nhân lành ban phát thiên duyên. Đạo giải thoát diệt phiền não chướng. Hàng phục ma oan chúng thi ân. Hơn tám vạn Pháp môn khai mở. khiến chúng sinh giác ngộ an vui.  
+                                        Án Phạ Nhật La Vật  (3 lần)  1 vái
+
+NIỆM PHẬT A DI ĐÀ:  Phật Di Đà mình vàng lấp lánh. Tướng tốt thay trong sáng khôn bì. Mi trắng tỏa tu di năm núi. Mắt như bốn biển lớn trong xanh. Hào quang hóa Phật hình vô ức. Hóa Bồ Tát cũng thật vô biên. Bốn tám nguyện khắp miền độ chúng. Chín phẩm hàm linh chứng Bồ Đề.
+
+Nam mô Tây phương Cực Lạc Thế Giới đại từ, đại bi A Di Đà Phật.          
+                                                                                                 (3 lần) 1 vái o o o
+
+Nam mô A Di Đà Phật.   (1 tràng hoặc 21 lần) 1 vái o o o
+Nam mô Quán Thế Âm Bồ Tát.   ( 3 lần) o
+Nam mô Đại  Thế Chí Bồ Tát.    ( 3 lần) o
+Nam mô Địa Tạng vương Bồ Tát.   ( 3 lần) o
+Nam mô Thanh Tịnh Đại Hải chúng Bồ tát Ma Ha tát    (3 lần) 1 vái o o o
+
+ BÀI TỰA CA NGỢI ĐỨC ĐỊA TẠNG: Chúng con dốc lòng quy mệnh lễ. Lạy Đức Giáo Chủ cõi U Minh. Bản Tôn Địa Tạng Đại Bồ Tát, rộng dày như đất bao trùm khắp. Cõi nước Phương Nam tỏa hương thơm, mây báu mưa hoa vô lượng số, hiển hiện điềm lành tỏ trang nghiêm. Trời người bạch Phật duyên gì thế? Phật rằng: Địa Tạng Bồ Tát hiện. Chư Phật ba đời đều tán thưởng. mười phương Bồ Tát cùng tin tưởng. 
+
+Con nay có được thiện duyên, ca ngợi Địa Tạng chân công đức, lưu trữ nhân lành độ chúng sinh. Rung Tích Trượng mở tung Địa ngục, cầm Minh Châu soi khắp Đại Thiên. Điện Diêm Vương đài gương nghiệp tỏ, Cõi Diêm Phù vì độ chúng sinh. Làm Giáo Chủ chứng minh công đức. 
+
+Nam mô Đại bi, Đại Nguyện, Đại Thánh, Đại Từ Bản Tôn Địa Tạng Vương Bồ Tát Ma Ha Tát      ( 3 lần, 1 vái) o o o 
+
+VĂN CẦU SIÊU:  Kính lạy Tam Bảo. Đệ tử chúng con, kính thành nguyện Phật, Pháp, Tăng trong mười phương: Đức Bản Sư Thích Ca Mâu Ni Phật - Đức tiếp dẫn Đạo Sư A Di Đà Phật - Đức Bản Tôn Địa Tạng Vương Bồ Tát.  Hộ Pháp Thiện Thần từ bi gia hộ cho cửu huyền thất tổ bên nội bên ngoại của chúng con hôm nay được xá tội. 
+
+Nay nhân Tiết Trung Nguyên Xá tội vong nhân chúng con thành tâm cúng Dàng Tam Bảo, nguyện cầu siêu độ cho Vong linh của con là  (đọc tên từng vong linh)  ………  và Vong linh   ……  Cùng các cụ Gia tiên tiền tổ bên nội, bên ngoại của chúng con: Sớm được dứt nghiệp oan khiên, thoát vòng khổ ải, siêu thăng thế giới Tây Phương Cực Lạc.
+
+Nguyện chư hương linh đẳng, nhất tâm hằng tỏ ngộ, lục dục sớm tan không, chốn nhân duyên sinh tử xa lìa, nơi an lạc hóa thân tự tại , ao Thất Bảo thảnh thơi tắm mát, Đài Cửu liên nhẹ gót tiêu giao. Quán Âm Thế Chí kết đồng hàng, Bồ Tát Thánh Tăng là bầu bạn, thần thức hằng vui nơi cõi tịnh, nghiệp duyên trần không vướng mảy may. Trên Đài Sen chín phẩm nở hoa, chư Phật phóng hào quang thụ ký.
+
+Nam mô Tây Phương Cực Lạc Thế giới Đại từ, Đại bi, tiếp dẫn đạo sư A Di Đà Phật.   (3 Lần) 1 vái o o o               Con Nam mô A Di Đà Phật.  
+
+NIỆM CHÚ tiếp  bài :    VÃNG SINH TỊNH ĐỘ THẦN CHÚ                            
+“Nẵng mồ a di đá bà dạ, đá tha già đá giạ, đá địa dạ tha, a di lị đô bà tỳ, A di lị đá tất đam bà tỳ, A di lị đá tỳ ca lan đế, A di lị đá tỳ ca lan đá, Già di nhị già già na, chỉ đá ca lệ sa bà ha.”  (Niệm 5 lần)
+
+Nguyện cầu: Con kính lạy: Đức Bản sư Thích Ca Mâu Ni Phật- Đức Bản Tôn Địa Tạng Vương Bồ Tát từ bi gia hộ cho Vong linh của con là ……….…(đọc tên từng Vong linh) cùng tất cả Gia tiên tiền tổ bên nội, bên ngoại của chúng con: Sớm được siêu thăng Thế giới Tây phương cực lạc.    Trước án kính lễ con xin được phù hộ độ trì.
+
+                                 Con Nam mô a di đà Phật. (3 lần)`
   }
 ];
