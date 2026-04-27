@@ -60,7 +60,7 @@ export default function App() {
   const categories = [
     { id: 'all', label: 'Tất cả', icon: BookOpen },
     { id: 'recurring', label: 'Hằng tháng', icon: CalendarIcon },
-    { id: 'lunar-year', label: 'Lễ Tết', icon: Moon },
+    { id: 'lunar-year', label: 'Hằng năm', icon: Moon },
     { id: 'death-anniversary', label: 'Cúng Giỗ', icon: Heart },
     { id: 'mantra', label: 'Bài Chú', icon: Zap },
   ];
@@ -193,9 +193,9 @@ export default function App() {
                           >
                             <div className="space-y-3">
                               <span className="text-[10px] font-sans font-bold uppercase tracking-widest text-amber-800 opacity-60">
-                                {r.category === 'lunar-year' ? 'Lễ Tết Cung Đình' : 
-                                 r.category === 'death-anniversary' ? 'Báo Hiếu Gia Tiên' :
-                                 'Cúng Lễ Định Kỳ'}
+                                {r.category === 'lunar-year' ? 'Cúng Lễ Hằng Năm' : 
+                                 r.category === 'death-anniversary' ? 'Cúng Giỗ Truyền Thống' :
+                                 'Cúng Lễ Hằng Tháng'}
                               </span>
                               <h4 className="text-2xl font-bold text-brown-900 group-hover:text-crimson-800 group-hover:italic transition-all">{r.title}</h4>
                               <p className="text-sm text-brown-700 italic opacity-80 max-w-xl">{r.description}</p>
