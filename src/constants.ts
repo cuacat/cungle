@@ -33,7 +33,7 @@ Nam mô hát ra, đát na đá ra dạ gia,
 Nam mô a rị ra, bà lô cát đế ,thước phàn ra gia, sa bà ha,
 Án tất điện đô mạn đá, ra bạt đà gia, sa bà ha.
 
-Nguyện cầu: Con kính lạy Đức Phật Thích Ca Mâu Ni, con kính lạy chư Phật 10 phương phù hộ độ trì for tất cả đại gia đình con cháu chúng con bình an khỏe mạnh, vạn sự hanh thông, mọi điều may mắn. Trước án kính lễ con xin được phù hộ độ trì. 
+Nguyện cầu: Con kính lạy Đức Phật Thích Ca Mâu Ni, con kính lạy chư Phật 10 phương phù hộ độ trì cho tất cả đại gia đình con cháu chúng con bình an khỏe mạnh, vạn sự hanh thông, mọi điều may mắn. Trước án kính lễ con xin được phù hộ độ trì. 
 
 Con Nam mô a di đà Phật. (3 lần)`
   },
@@ -63,7 +63,7 @@ Con Nam mô a di đà Phật. (3 lần)`
     description: 'Niệm 5 lần cầu cho vong linh sớm siêu thoát.',
     content: `“Nẵng mồ a di đá bà dạ, đá tha già đá giạ, đá địa da tha, a di lị đô bà tỳ, A di lị đá tất đam bà tỳ, A di lị đá tỳ ca lan đế, A di lị đá tỳ ca lan đá, Già di nhị già già na, chỉ đá ca lệ sa bà ha.” (Niệm 5 lần)
 
-Nguyện cầu: Con kính lạy: Đức Bản sư Thích Ca Mâu Ni Phật- Đức Bản Tôn Địa Tạng Vương Bồ Tát từ bi gia hộ cho Vong linh ………. Và Vong linh ……. cùng tất cả chư vị Gia tiên tiền tổ bên nội, bên ngoại của chúng con: Sớm được siêu thăng Thế giới Tây phương cực lạc. Trước án kính lễ con xin được phù hộ độ trì.
+Nguyện cầu: Con kính lạy: Đức Bản sư Thích Ca Mâu Ni Phật- Đức Bản Tôn Địa Tạng Vương Bồ Tát từ bi gia hộ cho Vong linh ……… và Vong linh …… cùng tất cả chư vị Gia tiên tiền tổ bên nội, bên ngoại của chúng con: Sớm được siêu thăng Thế giới Tây phương cực lạc. Trước án kính lễ con xin được phù hộ độ trì.
 
 Con Nam mô a di đà Phật. (3 lần)`
   },
